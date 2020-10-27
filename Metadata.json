@@ -1,0 +1,20 @@
+{
+    "Author": "Peter Selch Dahl - Azure MVP",
+    "ContentSize": 2230,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-virtual-machine-using-azure-automation-runbook/master/StopMyAzureVMs.ps1",
+    "DownloadCount": 10379,
+    "Id": "Stop-Azure-Virtual-Machine-0b1fea97",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 86,
+    "RaterCount": 6,
+    "Rating": 4.5,
+    "ReleaseDate": "2014-4-17T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Demonstrates stopping all Microsoft Azure Virtual Machine in a specific Azure subscription. The script could be associated with the new Azure Automation Scheduler to stop Virtual Machines at specific time. Great for developers for saving on Azure Compute, if they forget to shut",
+    "Title": "Stop Azure Virtual Machine using Azure Automation Runbook",
+    "UpdatedDate": "2014-4-17T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-azure-virtual-machine-using-azure-automation-runbook",
+    "UserTags": "Powershell, Automation, Windows Azure Virtual Machines"
+}
